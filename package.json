@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Henrique Cavalcante",
+  "author": "Willer R. Silva",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
