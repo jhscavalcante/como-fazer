@@ -1,6 +1,5 @@
 const express = require('express')
 const app = express()
-const axios = require('axios')
 const bodyParser = require('body-parser')
 const categorias = require('./routes/categorias')
 const publicacoes = require('./routes/publicacoes')
